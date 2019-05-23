@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25a528c5-78b5-41d3-a6b3-fe06a9d235b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exer09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exer10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exer11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exer12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -62,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Exer12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+            <state relative-caret-position="456">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,7 +123,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -173,11 +170,6 @@
             <path>
               <item name="IFMG" type="b2602c69:ProjectViewProjectNode" />
               <item name="IFMG" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IFMG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IFMG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -293,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558297932716</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ExerIF">
+      <created>1558575250283</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558575250283</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -307,7 +306,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Repositories" order="0" weight="0.32960895" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.110311754" />
@@ -319,12 +317,12 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49880287" visible="true" weight="0.45513865" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49880287" weight="0.45513865" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24796085" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49960095" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49720672" weight="0.32952693" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49720672" visible="true" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5027933" side_tool="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4964086" weight="0.89250815" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49960095" weight="0.32952693" />
@@ -418,7 +416,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exer VetorIF" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exer VetorIF" />
+    <MESSAGE value="ExerIF" />
+    <option name="LAST_COMMIT_MESSAGE" value="ExerIF" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/HelloWordLinux.java">
@@ -514,8 +513,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exer12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        <state relative-caret-position="456">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
