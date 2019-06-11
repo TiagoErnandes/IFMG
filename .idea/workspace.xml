@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25a528c5-78b5-41d3-a6b3-fe06a9d235b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerMatrizFederal/ExerMatrizFederal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerMatrizFederal/src/Exer012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerMatrizFederal/src/Exer05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerMatrizFederal/src/Exer06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerMatrizFederal/src/Exer07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerMatrizFederal/src/Exer08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerMatrizFederal/src/Exer09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerMatrizFederal/src/Exer10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerMatrizFederal/src/Exer11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerMatrizFederal/src/Exer13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exer18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exer19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exer20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exer21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerMatrizFederal/src/Exer14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWordLinux.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWordLinux.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer012.java">
+        <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="2">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,10 +31,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer13.java">
+        <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+            <state relative-caret-position="157">
+              <caret line="104" column="31" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,31 +43,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer05.java">
+        <entry file="file://$PROJECT_DIR$/src/Exer01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="97" selection-start-line="28" selection-start-column="97" selection-end-line="28" selection-end-column="97" />
+            <state relative-caret-position="-190">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer06.java">
+        <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer07.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="26" column="82" selection-start-line="26" selection-start-column="82" selection-end-line="26" selection-end-column="82" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -167,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HelloWordLinux.java" />
         <option value="$PROJECT_DIR$/src/Exer01.java" />
         <option value="$PROJECT_DIR$/src/Exer02.java" />
         <option value="$PROJECT_DIR$/src/Exer03.java" />
@@ -205,14 +178,16 @@
         <option value="$PROJECT_DIR$/ExerMatrizFederal/src/Exer11.java" />
         <option value="$PROJECT_DIR$/ExerMatrizFederal/src/Exer012.java" />
         <option value="$PROJECT_DIR$/ExerMatrizFederal/src/Exer13.java" />
+        <option value="$PROJECT_DIR$/src/HelloWordLinux.java" />
+        <option value="$PROJECT_DIR$/ExerMatrizFederal/src/Exer14.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="77" />
     <option name="y" value="47" />
-    <option name="width" value="1279" />
-    <option name="height" value="701" />
+    <option name="width" value="1159" />
+    <option name="height" value="635" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -240,6 +215,11 @@
               <item name="ExerMatrizFederal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="IFMG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IFMG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -253,6 +233,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -267,21 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exer13">
-    <configuration name="Exer07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exer07" />
-      <module name="ExerMatrizFederal" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exer08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exer08" />
-      <module name="ExerMatrizFederal" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exer14">
     <configuration name="Exer09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exer09" />
       <module name="ExerMatrizFederal" />
@@ -303,13 +270,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exer14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exer14" />
+      <module name="ExerMatrizFederal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWordLinux" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWordLinux" />
+      <module name="IFMG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exer14" />
+        <item itemvalue="Application.HelloWordLinux" />
         <item itemvalue="Application.Exer13" />
         <item itemvalue="Application.Exer10" />
         <item itemvalue="Application.Exer09" />
-        <item itemvalue="Application.Exer08" />
-        <item itemvalue="Application.Exer07" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559866808116</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Matriz10.06">
+      <created>1560218167919</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1560218167919</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -396,7 +384,7 @@
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
     <layout>
       <window_info id="Repositories" order="0" weight="0.32960895" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12339743" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.125" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -405,14 +393,14 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294702" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49880287" visible="true" weight="0.46523178" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49880287" visible="true" weight="0.46523178" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45860928" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49960095" weight="0.32899022" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49720672" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5027933" side_tool="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4964086" weight="0.89250815" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4964086" weight="0.06125828" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49960095" weight="0.3294702" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -507,7 +495,8 @@
     <MESSAGE value="ExerIF" />
     <MESSAGE value="noF" />
     <MESSAGE value="Matriz" />
-    <option name="LAST_COMMIT_MESSAGE" value="Matriz" />
+    <MESSAGE value="Matriz10.06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Matriz10.06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -570,24 +559,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HelloWordLinux.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="43" />
-          <folding>
-            <element signature="e#73#74#0" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exer01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exer05.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-41">
@@ -760,16 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -784,6 +745,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer012.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -838,13 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exer13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -852,20 +816,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer012.java">
+    <entry file="file://$PROJECT_DIR$/src/Exer13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="912">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exer01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWordLinux.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer13.java">
+    <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        <state>
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExerMatrizFederal/src/Exer14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="104" column="31" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
