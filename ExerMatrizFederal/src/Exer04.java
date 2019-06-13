@@ -8,6 +8,8 @@ public class Exer04 {
         int totSoma=0,numDiasAcimaDaMedia=0;
         double totMedia;
         int semanas;
+        int menorDiaProdutivo =Integer.MAX_VALUE;
+
         System.out.println("Digite a quantidade de semanas de produ��o ");
         semanas = scan.nextInt();
         int [][]producao = new int [semanas][7];
@@ -18,26 +20,30 @@ public class Exer04 {
                 totSoma+=producao[i][j];
             }
         }
+
         System.out.println(producao.length);
         totMedia = totSoma/(producao.length*7);
         for(int i =0 ; i < producao.length;i++) {
+            menorDiaProdutivo =Integer.MAX_VALUE;
             for (int j =0 ;j < producao[i].length;j++) {
 
+                if(producao[i][j] < menorDiaProdutivo) {
+                    menorDiaProdutivo = producao[i][j];
+                    minimaProducao[i] =j;
+                }
                 if(producao[i][j]>totMedia) {
                     numDiasAcimaDaMedia++;
-                }else {
-                    minimaProducao[i]++;
                 }
             }
         }
-        System.out.println("RELAT�RIO DE PRODU��O RELATIVO � "+semanas+" SEMANAS");
+        System.out.println("RELATARIO DE PRODUÇÃO RELATIVO ? "+semanas+" SEMANAS");
         System.out.println("-----------------------------------------------------");
-        System.out.println("Produ��o m�dia = "+totMedia);
-        System.out.println("N�mero de dias com produ��o acima da m�dia  = "+numDiasAcimaDaMedia);
+        System.out.println("Produçõo media = "+totMedia);
+        System.out.println("Numero de dias com produção acima da media  = "+numDiasAcimaDaMedia);
 
-        System.out.println("INDICA��O DOS DIAS DE BAIXA PRODU��O: ");
+        System.out.println("INDICAÇÃO DOS DIAS DE BAIXA PRODUÇÃO: ");
         for(int i =0;i < producao.length;i++) {
-            System.out.println("Semana "+(i+1)+" ................................ DIA: "+minimaProducao[i]);
+            System.out.println("Semana "+(i+1)+" ................................ DIA: "+(minimaProducao[i]+1));
         }
 
     }
